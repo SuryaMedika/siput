@@ -2,8 +2,8 @@
 
 $host   = "localhost";
 $user   = "root";
-$pass   = "415basoro";
-$name   = "siput";
+$pass   = "";
+$name   = "";
 
 mysql_connect("$host", "$user", "$pass");
 mysql_select_db("$name");
